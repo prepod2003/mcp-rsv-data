@@ -1,0 +1,13 @@
+# Бинарники и сборка — распространяются через GitHub Releases, не через репозиторий
+*.exe
+*.exe~
+*.cfe
+*.zip
+
+# Локальные тестовые/рабочие артефакты моста (могут содержать креды)
+bridge/.test-config.json
+bridge/.smoke-input.txt
+bridge/.smoke-output.txt
+bridge/.smoke-stderr.txt
+bridge/bridge.json
+bridge/*-input.txt
