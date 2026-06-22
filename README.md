@@ -1,6 +1,6 @@
 # MCP:RSV Data
 
-[![Опубликовано на Infostart](assets/infostart-logo.svg)](https://infostart.ru/1c/tools/2720241/)
+[![Опубликовано на Infostart](assets/infostart-logo.png)](https://infostart.ru/1c/tools/2720241/)
 
 Опубликовано на Infostart: <https://infostart.ru/1c/tools/2720241/>
 
