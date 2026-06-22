@@ -1,5 +1,9 @@
 # MCP:RSV Data
 
+[![Опубликовано на Infostart](assets/infostart-logo.svg)](https://infostart.ru/1c/tools/2720241/)
+
+Опубликовано на Infostart: <https://infostart.ru/1c/tools/2720241/>
+
 **Бесплатный MCP-сервер для рабочей базы 1С:Предприятие** — два направления в одном расширении:
 
 - **Данные базы — простым языком, без языка запросов 1С.** ИИ-агент (Claude, Cursor и др.) по обычной
